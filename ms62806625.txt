@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "mwuonline.edu.np",
+  "Id": "9edee435-205c-4f85-99cf-7d5a50545aaa"
+}
